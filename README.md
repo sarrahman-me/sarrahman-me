@@ -6,5 +6,5 @@
 
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarrahman&theme=tokyonight)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sarrahman&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarrahman-me&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sarrahman-me&show_icons=true&theme=tokyonight)
