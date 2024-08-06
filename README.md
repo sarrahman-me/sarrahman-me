@@ -7,7 +7,7 @@
 
 <br />
 
-### Stack and leanguage I ❤️
+### Stack and language I ❤️
 
 <p align="left">
     <a href="https://aws.amazon.com" target="_blank"> <img
