@@ -20,15 +20,15 @@
             alt="express" width="40" height="40" /> </a>  <a href="https://flask.palletsprojects.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40"
             height="40" /> </a>  <a href="https://www.rust-lang.org/" target="_blank"> <img
-            src="https://www.rust-lang.org/logos/rust-logo-blk.svg" alt="java"
+            src="https://www.rust-lang.org/logos/rust-logo-blk.svg" alt="rust"
             width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
         target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="40" height="40" /> </a> <a href="https://jestjs.io" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" /> </a>
-    <a href="https://kubernetes.io" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40"
-            height="40" /> </a> <a href="https://www.mongodb.com/" target="_blank"> <img
+    <a href="https://www.rust-lang.org/" target="_blank"> <img
+            src="https://www.rust-lang.org/logos/rust-logo-blk.svg" alt="rust"
+            width="40" height="40" /> </a> <a href="https://www.mongodb.com/" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
             alt="mongodb" width="40" height="40" /> </a> <a href="https://nodejs.org" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
@@ -56,3 +56,4 @@
 <br />
 
 ![Top Lang](https://wakatime.com/share/@73ac8ea1-ee1f-493b-9d6b-f6d13bcd7c7f/f74db3c2-3e11-42cf-a26f-0c9d19bc149b.svg)
+![Coding Activity](https://wakatime.com/share/@73ac8ea1-ee1f-493b-9d6b-f6d13bcd7c7f/2e068fc8-7893-4332-8245-b259ee54be45.svg)
