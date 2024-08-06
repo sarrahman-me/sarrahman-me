@@ -55,5 +55,5 @@
 
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarrahman-me&theme=tokyonight)
+<figure><embed src="https://wakatime.com/share/@73ac8ea1-ee1f-493b-9d6b-f6d13bcd7c7f/f74db3c2-3e11-42cf-a26f-0c9d19bc149b.svg"></embed></figure>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sarrahman-me&show_icons=true&theme=tokyonight)
