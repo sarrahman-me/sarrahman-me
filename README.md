@@ -56,4 +56,3 @@
 <br />
 
 ![Top Lang](https://wakatime.com/share/@73ac8ea1-ee1f-493b-9d6b-f6d13bcd7c7f/f74db3c2-3e11-42cf-a26f-0c9d19bc149b.svg)
-![Coding Activity](https://wakatime.com/share/@73ac8ea1-ee1f-493b-9d6b-f6d13bcd7c7f/2e068fc8-7893-4332-8245-b259ee54be45.svg)
