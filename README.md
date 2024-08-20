@@ -55,4 +55,8 @@
 
 <br />
 
-![Top Lang](https://wakatime.com/share/@73ac8ea1-ee1f-493b-9d6b-f6d13bcd7c7f/ee4b4527-1dc9-4117-a04e-562fec7a50c1.svg)
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+  <img src="https://wakatime.com/share/@73ac8ea1-ee1f-493b-9d6b-f6d13bcd7c7f/ee4b4527-1dc9-4117-a04e-562fec7a50c1.svg" alt="Top Lang" />
+  <img src="https://wakatime.com/share/@73ac8ea1-ee1f-493b-9d6b-f6d13bcd7c7f/bbf4572b-55c9-4525-b973-3a370677e616.svg" alt="Daily Time Coding" />
+</div>
+
