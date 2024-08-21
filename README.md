@@ -1,9 +1,5 @@
-- 👋 Hi, Saya Rahman, saya Backend Engineer
-- 👀 Saya tertarik dengan berbagai project bisnis khususnya saat ini saya sedang berada di bidang industri bahan
-  bangunan.
-- 🌱 Saya mendirikan Toko Keramik Indonesia yang bisa kamu lihat di tokokeramik.com
-- 💞️ Saya sangat menghargai jika kalian ingin berdiskusi dan memeberikan masukan kepada project yang saya buat.
-- 📫 Anda bisa menghubungi saya melalui sarrahman.me@gmail.com
+- 👋 Hi, Saya Rahman, saya seorang Junior Software Enginer, sehari-hari saya memprogram dalam 4 bahasa pemrograman, yaitu Rust untuk sebagian besar project saya, python dan typescript untuk hobby dan c++ untuk competitive programming
+- Saya juga memiliki channel youtube @Sarrahman_Official dimana saya melakukan sharing terkait pemrograman, technology dan hal yang saya sukai.
 
 <br />
 
