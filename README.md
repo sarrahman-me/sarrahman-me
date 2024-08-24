@@ -1,4 +1,4 @@
-- 👋 Hi, Saya Rahman, saya seorang Junior Software Enginer
+- 👋 Hi, Saya Rahman, saya seorang Junior Web Developer
 - Sehari-hari saya memprogram dalam 4 bahasa pemrograman, yaitu Rust untuk sebagian besar project saya, python dan typescript untuk hobby dan c++ untuk competitive programming
 - Saya juga memiliki channel youtube @Sarrahman_Official dimana saya melakukan sharing terkait pemrograman, technology dan hal yang saya sukai.
 
