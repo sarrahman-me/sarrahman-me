@@ -1,5 +1,5 @@
 - 👋 Hi, Saya Rahman, saya seorang Junior Web Developer
-- Sehari-hari saya memprogram dalam 4 bahasa pemrograman, yaitu Rust dan Typescript untuk sebagian besar project saya, python untuk hobby dan c++ untuk competitive programming
+- Sehari-hari saya memprogram dalam 3 bahasa pemrograman, yaitu Rust dan Typescript untuk sebagian besar project saya, python untuk hobby. Saya juga belajar C dan assembly sebagai pengetahuan tambahan.
 - Saya juga memiliki channel youtube @Sarrahman_Official dimana saya melakukan sharing terkait pemrograman, technology dan hal yang saya sukai.
 
 <br />
