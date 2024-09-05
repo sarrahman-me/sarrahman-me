@@ -53,6 +53,6 @@
 <br />
 
 <p align="center">
-  <img src="https://wakatime.com/share/@73ac8ea1-ee1f-493b-9d6b-f6d13bcd7c7f/ee4b4527-1dc9-4117-a04e-562fec7a50c1.svg" alt="Top Lang" style="width: 45%;"/>
+  <img src="https://wakatime.com/share/@73ac8ea1-ee1f-493b-9d6b-f6d13bcd7c7f/a3a4ba5a-3b70-4149-9b1f-dfb6544242d2.svg" alt="Language" style="width: 45%;" />
   <img src="https://wakatime.com/share/@73ac8ea1-ee1f-493b-9d6b-f6d13bcd7c7f/bbf4572b-55c9-4525-b973-3a370677e616.svg" alt="Daily Time Coding" style="width: 45%;"/>
 </p>
