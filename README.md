@@ -1,6 +1,6 @@
-- 👋 Hi, I'm Rahman, I'm a Software Engineer. but I don't work in any company, I just code for personal pleasure.
-- Everyday I program in 3 programming languages, namely Rust and Typescript for most of my projects, python for hobby. I also learn C as additional knowledge.
-- I also have a youtube channel @sarrahman_dev where I share about programming, technology and things I like.
+- 👋 Hello, My name is Rahman, and I am a Software Engineer. While not currently employed, I dedicate my time to coding for personal enjoyment.
+- Daily, I engage in programming activities using three programming languages: Rust and TypeScript for the majority of my projects, and Python for my interests. Additionally, I pursue acquiring C programming knowledge as a supplementary skill.
+- I also maintain a YouTube channel, @sarrahman_dev, where I share insights into programming, technology, and other topics that pique my interest.
 
 <br />
 
