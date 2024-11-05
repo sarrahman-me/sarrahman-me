@@ -1,6 +1,6 @@
-- 👋 Hi, Saya Rahman, saya seorang Software Engineer. tapi saya tidak bekerja di perusahaan manapun, saya hanya coding untuk kesenangan pribadi.
-- Sehari-hari saya memprogram dalam 3 bahasa pemrograman, yaitu Rust dan Typescript untuk sebagian besar project saya, python untuk hobby. Saya juga belajar C sebagai pengetahuan tambahan.
-- Saya juga memiliki channel youtube @sarrahman_dev dimana saya melakukan sharing terkait pemrograman, technology dan hal yang saya sukai.
+- 👋 Hi, I'm Rahman, I'm a Software Engineer. but I don't work in any company, I just code for personal pleasure.
+- Everyday I program in 3 programming languages, namely Rust and Typescript for most of my projects, python for hobby. I also learn C as additional knowledge.
+- I also have a youtube channel @sarrahman_dev where I share about programming, technology and things I like.
 
 <br />
 
