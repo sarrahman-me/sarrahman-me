@@ -7,7 +7,7 @@
 ### Stack and language I ❤️
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=ts,js,rust,go,c,cpp,py,html,css,nestjs,nextjs,express,actix,tauri,fastapi,flask,tailwind,mongodb,postgres,sqlite,redis,supabase,firebase,rabbitmq,aws,docker,nodejs,nginx,neovim,bash" />
+    <img src="https://skillicons.dev/icons?i=ts,js,rust,py,go,c,cpp,html,css,nestjs,nextjs,express,actix,tauri,fastapi,flask,tailwind,mongodb,postgres,sqlite,redis,supabase,firebase,rabbitmq,aws,docker,nodejs,nginx,neovim,bash" />
 </p>
 
 <br />
