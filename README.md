@@ -10,10 +10,3 @@
     <img src="https://skillicons.dev/icons?i=ts,js,rust,py,go,c,cpp,haskell,html,css,nestjs,nextjs,express,actix,tauri,fastapi,flask,tailwind,mongodb,postgres,sqlite,redis,supabase,firebase,rabbitmq,aws,docker,nodejs,nginx,neovim" />
 </p>
 
-<br />
-
-<p align="center">
-  <img src="https://wakatime.com/share/@sarrahman/3cbfb112-238c-4c18-9135-2432da271fc9.svg" alt="Language" style="width: 45%;" />
-  <img src="https://wakatime.com/share/@73ac8ea1-ee1f-493b-9d6b-f6d13bcd7c7f/14adb106-f845-48c1-af01-b424e115596f.svg" alt="Daily Time Coding" style="width: 45%;"/>
-</p>
-
